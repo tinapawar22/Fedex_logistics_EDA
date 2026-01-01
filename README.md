@@ -1,4 +1,9 @@
 Exploratory Data Analysis (EDA) on Logistics & Supply Chain Data
+
+
+
+
+
 📌 Project Overview
 In today’s fast-paced global economy, efficient logistics and supply chain management play a crucial role in business success.
 This project performs Exploratory Data Analysis (EDA) on logistics and shipment data to uncover delivery performance, cost patterns, delays, and operational inefficiencies.
